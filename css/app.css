@@ -335,7 +335,7 @@ footer {
 /* Background for mobile version */
 @media (max-width: 767px) {
     .welcome-page {
-        background: url('./../assets/images/welcome_small.jpeg') no-repeat center center/cover;
+        /* background: url('./../assets/images/welcome_small.jpeg') no-repeat center center/cover; */
     }
 }
 
